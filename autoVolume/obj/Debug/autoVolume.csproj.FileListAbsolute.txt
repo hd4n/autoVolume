@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\autoVolume\autoVolume\bin\Debug\autoVolume.exe.config
+C:\Users\User\source\repos\autoVolume\autoVolume\bin\Debug\autoVolume.exe
+C:\Users\User\source\repos\autoVolume\autoVolume\bin\Debug\autoVolume.pdb
+C:\Users\User\source\repos\autoVolume\autoVolume\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\User\source\repos\autoVolume\autoVolume\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\User\source\repos\autoVolume\autoVolume\obj\Debug\autoVolume.csprojAssemblyReference.cache
+C:\Users\User\source\repos\autoVolume\autoVolume\obj\Debug\autoVolume.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\autoVolume\autoVolume\obj\Debug\autoVolume.csproj.CopyComplete
+C:\Users\User\source\repos\autoVolume\autoVolume\obj\Debug\autoVolume.exe
+C:\Users\User\source\repos\autoVolume\autoVolume\obj\Debug\autoVolume.pdb

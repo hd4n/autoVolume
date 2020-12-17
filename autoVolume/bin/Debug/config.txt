@@ -1,0 +1,6 @@
+defaultVolume:20
+#-------
+#format:
+#name:setVolume:matchType(0: equals | 1: contains)
+Skype:100:0
+debug:50:1
